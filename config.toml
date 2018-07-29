@@ -9,6 +9,9 @@ paginate = 3
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
+disqusShortname = "glaspie-us" #Disqus shortname
+googleAnalytics = "UA-109425230-2" #Google Analytics ID
+
 
 [author]
     name = "josephglaspie"
