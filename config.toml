@@ -1,5 +1,5 @@
 baseurl = "https://glaspie.us"
-title = "Kiera"
+title = "Infrastructure Guy"
 copyright = "Copyright &copy; 2018 - Joseph Glaspie"
 canonifyurls = true
 theme = "kiera"
@@ -20,6 +20,6 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Aha moments in the life of an Infrastructure Guy"
 
 
