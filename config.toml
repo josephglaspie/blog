@@ -1,6 +1,6 @@
 baseurl = "https://glaspie.us"
 title = "Kiera"
-copyright = "Copyright &copy; 2017 - Author Name"
+copyright = "Copyright &copy; 2018 - Joseph Glaspie"
 canonifyurls = true
 theme = "kiera"
 
@@ -11,10 +11,10 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = ""
-    github = ""
+    name = "josephglaspie"
+    github = "josephglaspie"
     gitlab = ""
-    linkedin = ""
+    linkedin = "josephglaspie"
     facebook = ""
     twitter = ""
     instagram = ""
