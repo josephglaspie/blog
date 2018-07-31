@@ -21,7 +21,7 @@ The machines we are using are spec’d for High Memory usage but have a cached D
 
 Our VM has multiple > 2TB disks attached with SQL running full speed. The CPU and RAM on the server are underutilized but the transaction times on the disks are at > 1000ms instead of 15-20 in a healthy non-throttled machine. We have validated this with PerfMon the local windows performance counter tool.
 
-Currently, the L series VMs that have no storage throttles are available in East Us 2 where our subscription (PROD-INTERLINE-START) lives.
+Currently, the L series VMs that have no storage throttles are available in East Us 2 where our subscription lives.
 
 
 TLDR
