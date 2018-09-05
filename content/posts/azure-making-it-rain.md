@@ -3,6 +3,8 @@ title: "Azure Cloud - Makin' It Rain"
 date: 2018-09-04T19:13:44-05:00
 ---
 
+![image alt text](/rain.jpg)
+
 One of the biggest advantages of deploying to the cloud is the ability to spin up large and spin up fast. You want a 64 x 1024 SQL box to run midnight batch jobs like no one's business, you bet. How about a 128 x 4000 beast with massive SSD IOPs and storage, sure not a problem. Need to quickly scale these boxes horizontally at a specific time or trigger on CPU spikes?
 
 You can do all of the above with just a few clicks in the portal, handful of lines in Powershell, and about 15 minutes cooking time. This is great if you have a need for near-instant massive compute power and a bottomless bank account. Unfortunately, we live in the real world which requires us to be good stewards of our resources. In this real world those servers cost real money: $7K and $27K per month respectively.
