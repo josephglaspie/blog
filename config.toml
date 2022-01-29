@@ -16,11 +16,7 @@ googleAnalytics = "UA-109425230-2" #Google Analytics ID
 [author]
     name = "josephglaspie"
     github = "josephglaspie"
-    gitlab = ""
     linkedin = "josephglaspie"
-    facebook = ""
-    twitter = ""
-    instagram = ""
 
 [params]
     tagline = "Aha moments in the life of an Infrastructure Guy"

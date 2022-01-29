@@ -1,7 +1,7 @@
 ---
-title: "Terraform Twilio Golang Ohmy"
+title: "Terraform Twilio Golang Oh-my"
 date: 2022-01-28T10:47:37-06:00
-draft: true
+draft: false
 ---
 
 Want to get your feet wet with a little Terraform, Twilio, EKS, and Golang? I created a super simple app that will allow you to text the number of friends you are with and reply back with a fun activity.
@@ -10,7 +10,7 @@ The app is built on top of AWS's Kubernetes (EKS). I wanted an easy setup that I
 
 The Bored API doesn't require an authentication so it's super easy to make rest calls against it.
 
-Here's the tutorial if you want to give it a shot.
+Here's the tutorial if you want to give it a shot or the [repo](https://github.com/josephglaspie/golangBored) if you'd rather skip my rambling and go strait to the code.
 
 ```
 curl --location --request POST 'http://k8s-bored-ingressb-a7cccb6576-1355983709.us-east-2.elb.amazonaws.com/bored' \
