@@ -2,7 +2,7 @@ baseurl = "https://glaspie.us"
 title = "Infrastructure Guy"
 copyright = "Copyright &copy; 2018 - Joseph Glaspie"
 canonifyurls = true
-theme = "kiera"
+theme = "hugo-kiera"
 
 paginate = 3
 
