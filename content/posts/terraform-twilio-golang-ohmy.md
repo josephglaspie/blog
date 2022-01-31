@@ -8,7 +8,7 @@ Want to get your feet wet with a little Terraform, Twilio, EKS, and Golang? I cr
 
 The app is built on top of AWS's Kubernetes (EKS). I wanted an easy setup that I could quickly destroy and not incure costs beyond the Free AWS Tier so leveraged Terraform to do so.
 
-The Bored API doesn't require an authentication so it's super easy to make rest calls against it.
+The Bored API doesn't require an authentication so it's super easy to make rest calls against it. The reason behind using Terraform was so that I could tear down the infrastructure and build it back identically. The only "gotcha" I found was that the Terraform wouldn't remove all of the service accounts created so you gotta clear those out with a script. I'm happy to throw something together if you hit me up on LinkedIn.
 
 Here's the tutorial if you want to give it a shot or the [repo](https://github.com/josephglaspie/golangBored) if you'd rather skip my rambling and go strait to the code.
 
